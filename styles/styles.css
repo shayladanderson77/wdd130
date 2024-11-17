@@ -24,6 +24,16 @@ aside img {
 p {
     padding: 0px;
 }
+aside {
+width: 20em;
+margin: 1em;
+border: 1px solid rgba(0,0,0,0.2);
+padding: 1em;
+background-color: #eeee;
+color: #333;
+tex-align: center;
+}
+
 footer {
     margin-top: 15px;
     border-top: 1px solid #000;
